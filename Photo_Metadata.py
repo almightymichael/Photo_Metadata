@@ -55,8 +55,5 @@ def photo_metadata(path):
                     os.rename(photo_src_path, photo_dst_path)
 
 
-path = 'C:\\Users\\michael\\ownCloud\\Photos'
-photo_metadata(path)
-
-path = 'C:\\Users\\michael\\OneDrive\\Pictures'
+path = 'ADD PATH HERE'
 photo_metadata(path)
